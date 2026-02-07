@@ -8,6 +8,4 @@ I’ve worked on projects such as healthcare insurance claiming using Blockchain
 
 I’m always learning, experimenting, and building something new with AI, automation, and modern technologies. I also use modern developer tools like GitHub Copilot, GPT-based assistants, and AI-driven workflows to improve my coding and project development.
 
-## 🌀 GitHub Metrics (Anime Style)
-
-![Metrics](https://metrics.lecoq.io/Harsha240105?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&followup=1&lines=1&repositories=1&activity=1&habits=1&isometric=1&base=header,activity&config.timezone=Asia%2FKolkata&plugin_isocalendar_duration=full-year&config.twemoji=true&config.animated=true&config.theme=nightowl)
+![Metrics](https://metrics.lecoq.io/Harsha240105?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&isometric=1&base=header,activity&config.timezone=Asia%2FKolkata&config.twemoji=true&config.animated=true&config.theme=nightowl)
