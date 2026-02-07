@@ -1,23 +1,33 @@
 name: GitHub Metrics
-
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs once per day
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
 
           base: header, activity, community, repositories
 
+          # 3D Contribution Graph (isocalendar)
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_habits: yes
-          plugin_isometric: yes
+          plugin_isocalendar_duration: full-year
 
+          # Languages chart
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Timezone
           config_timezone: Asia/Kolkata
