@@ -8,4 +8,7 @@ I’ve worked on projects such as healthcare insurance claiming using Blockchain
 
 I’m always learning, experimenting, and building something new with AI, automation, and modern technologies. I also use modern developer tools like GitHub Copilot, GPT-based assistants, and AI-driven workflows to improve my coding and project development.
 
+---
+
+## 📊 GitHub Metrics
 ![Metrics](./metrics.svg)
