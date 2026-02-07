@@ -11,4 +11,4 @@ I’m always learning, experimenting, and building something new with AI, automa
 ---
 
 ## 📊 GitHub Metrics
-[Metrics](./metrics.svg)
+![Metrics](./metrics.svg)
