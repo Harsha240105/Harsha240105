@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Student+%E2%80%A2+Builder+%E2%80%A2+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Mileast&weight=700&size=32&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Student+%E2%80%A2+Builder+%E2%80%A2+Creator" alt="Typing SVG" />
 </div>
 
 ```yaml
@@ -237,9 +237,3 @@ Also watching: **Berserk**
 ```diff
 + Always building. Always learning. Web3 is the future.
 ```
-
----
-
-<p align="center">
-  <sub>Avatar by <a href="https://sronstudio.com">Sronstudio</a> · Built with ❤️</sub>
-</p>
