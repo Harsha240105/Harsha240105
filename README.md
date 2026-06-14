@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=500&color=7B61FF&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Ichigo+%E2%80%A2+Goku+%E2%80%A2+Luffy+%E2%80%A2+Mikasa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=500&color=7B61FF&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Student+%E2%80%A2+Builder+%E2%80%A2+Creator" alt="Typing SVG" />
 </div>
 
 ```yaml
@@ -46,18 +46,103 @@ const harsha = {
 };
 ```
 
-<details>
-  <summary><b>🎬 Anime I Love</b></summary>
-  <br>
+---
 
-| Character | From | Why |
-|-----------|------|-----|
-| **Ichigo Kurosaki** | Bleach | Protector energy — never backs down |
-| **Goku** | Dragon Ball | Always pushing limits, never satisfied |
-| **Luffy** | One Piece | Lives free, follows his dream |
-| **Mikasa Ackerman** | Attack on Titan | Loyal, strong, silent focus |
+## 🎬 Anime Stats
+
+| Genres I Love | Watched | Read |
+|:---|:---|:---|
+| Action · Drama · Psychological · Sci-Fi · Adventure · Comedy | **19.4k mins** | **5.91k chapters** |
+
+### ⭐ All-Time Favorites
+
+| # | Anime | Episodes | Genres | Hours |
+|---|-------|----------|--------|------|
+| 1 | **Attack on Titan** ❤️ | 94 | Action, Drama, Mystery | ~35h |
+| 2 | **Serial Experiments Lain** | 13 | Psychological, Sci-Fi, Mystery | ~5h |
+| 3 | **Dragon Ball Franchise** | 600+ | Action, Adventure, Comedy | ~290h |
+| 4 | **Bleach** (incl. TYBW) | 380+ | Action, Supernatural | ~170h |
+| 5 | **One Piece** | 1100+ | Adventure, Comedy, Drama | ~420h |
+| 6 | **Naruto + Shippuden** | 700+ | Action, Adventure | ~300h |
+
+### 🏆 Favorite Characters
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Mikasa Ackerman</b><br>
+        <sub>Attack on Titan</sub><br>
+        <em>"The world is cruel, but also beautiful."</em>
+      </td>
+      <td align="center">
+        <b>Goku</b><br>
+        <sub>Dragon Ball</sub><br>
+        <em>"I am the hope of the universe."</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📺 Complete Watch History
+
+<details>
+  <summary><b>Major Long Series</b> (click to expand)</summary>
+
+| Series | Hours |
+|--------|------|
+| Dragon Ball (DB → Z → GT → Super) | ~290h |
+| Bleach (including Thousand-Year Blood War) | ~170h |
+| One Piece | ~420h |
+| Naruto + Naruto Shippuden | ~300h |
 
 </details>
+
+<details>
+  <summary><b>Medium Series</b> (click to expand)</summary>
+
+| Series | Hours |
+|--------|------|
+| Demon Slayer (all seasons + movies) | ~30h |
+| Attack on Titan | ~35h |
+| My Hero Academia | ~55h |
+| Hunter × Hunter | ~60h |
+| Mob Psycho 100 | ~15h |
+| Code Geass | ~20h |
+| Monster | ~30h |
+| Dr. Stone (through Season 4) | ~35h |
+
+</details>
+
+<details>
+  <summary><b>Short / Recent</b> (click to expand)</summary>
+
+| Series | Hours |
+|--------|------|
+| One-Punch Man | ~10h |
+| Chainsaw Man | ~5h |
+| Solo Leveling | ~10h |
+| Kaiju No. 8 | ~5h |
+
+</details>
+
+<details>
+  <summary><b>Manga Read</b> (click to expand)</summary>
+
+- Dragon Ball Super
+- Demon Slayer: Kimetsu no Yaiba
+- Jujutsu Kaisen
+- Berserk
+
+</details>
+
+**Total anime watched: ≈ 1,490 hours** (62 days of nonstop watching!)
+
+---
+
+## 🌟 Contribution Calendar
+
+![Calendar](./calendar.svg)
 
 ---
 
@@ -91,13 +176,6 @@ const harsha = {
 ---
 
 ## 🛠️ What I Build
-
-```
-Blockchain  ████████████████░░░  NFT minting, smart contracts, Polygon dApps
-Full-Stack  ██████████████████░  React SPAs, Express APIs, real-time chat
-AI/Auto     ████████████░░░░░░░  OCR verification, bots, automation
-UI/UX       ██████████████████░  Responsive animated interfaces
-```
 
 | Area | Examples |
 |------|----------|
