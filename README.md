@@ -52,7 +52,7 @@ const harsha = {
 
 | Genres I Love | Watched | Read |
 |:---|:---|:---|
-| Action · Drama · Psychological · Sci-Fi · Adventure · Comedy | **19.4k mins** | **5.91k chapters** |
+| Action · Drama · Psychological · Sci-Fi · Adventure · Comedy | **1500+ hours** | **5.91k chapters** |
 
 ### ⭐ All-Time Favorites
 
@@ -71,11 +71,13 @@ const harsha = {
   <table>
     <tr>
       <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/9/215563.jpg" width="150" alt="Mikasa Ackerman"><br>
         <b>Mikasa Ackerman</b><br>
         <sub>Attack on Titan</sub><br>
         <em>"The world is cruel, but also beautiful."</em>
       </td>
       <td align="center">
+        <img src="https://cdn.myanimelist.net/images/characters/9/46566.jpg" width="150" alt="Goku"><br>
         <b>Goku</b><br>
         <sub>Dragon Ball</sub><br>
         <em>"I am the hope of the universe."</em>
