@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Student+%E2%80%A2+Builder+%E2%80%A2+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%E2%97%88+Harshavardhan+H+S;Blockchain+%7C+Web3+%7C+Vibe+Coder;Student+%E2%80%A2+Builder+%E2%80%A2+Creator" alt="Typing SVG" />
 </div>
 
 ```yaml
@@ -16,13 +16,13 @@ motto: "Creating things and beautiful UIs"
 
 <div align="center">
   <a href="https://discord.com/invite/gKghAS2RVW">
-    <img src="https://img.shields.io/badge/Join_Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Join_Discord-00FF41?style=for-the-badge&logo=discord&logoColor=000" alt="Discord">
   </a>
   <a href="https://github.com/Harsha240105/Final-Sem-Project">
-    <img src="https://img.shields.io/badge/%E2%97%88_Web3Connect_Project-06B6D4?style=for-the-badge&logo=github" alt="Project">
+    <img src="https://img.shields.io/badge/%E2%97%88_Web3Connect_Project-00FF41?style=for-the-badge&logo=github&logoColor=000" alt="Project">
   </a>
   <a href="https://github.com/Harsha240105">
-    <img src="https://img.shields.io/badge/GitHub-F43F5E?style=for-the-badge&logo=github&logoColor=000" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub">
   </a>
 </div>
 
@@ -192,9 +192,9 @@ Also watching: **Berserk**
       <td align="center"><b>🏆 Stack</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/github/stars/Harsha240105/Final-Sem-Project?style=flat-square&color=F59E0B"></td>
-      <td align="center"><img src="https://img.shields.io/github/forks/Harsha240105/Final-Sem-Project?style=flat-square&color=10B981"></td>
-      <td align="center"><img src="https://img.shields.io/github/last-commit/Harsha240105/Final-Sem-Project?style=flat-square&color=8B5CF6"></td>
+      <td align="center"><img src="https://img.shields.io/github/stars/Harsha240105/Final-Sem-Project?style=flat-square&color=00FF41"></td>
+      <td align="center"><img src="https://img.shields.io/github/forks/Harsha240105/Final-Sem-Project?style=flat-square&color=00FF41"></td>
+      <td align="center"><img src="https://img.shields.io/github/last-commit/Harsha240105/Final-Sem-Project?style=flat-square&color=00FF41"></td>
       <td align="center"><code>React·Express·Mongo·Solidity</code></td>
     </tr>
   </table>
@@ -217,8 +217,8 @@ Also watching: **Berserk**
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha240105&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=8B5CF6&title_color=06B6D4&text_color=F8FAFC&ring_color=F43F5E" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha240105&theme=radical&hide_border=true&background=0D1117&ring=06B6D4&fire=F43F5E&currStreakLabel=8B5CF6" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha240105&show_icons=true&theme=radical&hide_border=true&bg_color=000000&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&ring_color=00FF41" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha240105&theme=radical&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%">
 </div>
 
 ---
@@ -227,13 +227,19 @@ Also watching: **Berserk**
 
 <p align="center">
   <a href="https://github.com/Harsha240105">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub">
   </a>
   <a href="https://discord.com/invite/gKghAS2RVW">
-    <img src="https://img.shields.io/badge/Discord-06B6D4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=000" alt="Discord">
   </a>
 </p>
 
 ```diff
 + Always building. Always learning. Web3 is the future.
 ```
+
+---
+
+<p align="center">
+  <sub>Avatar by <a href="https://sronstudio.com">Sronstudio</a> · Built with ❤️</sub>
+</p>
