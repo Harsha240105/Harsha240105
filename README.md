@@ -199,7 +199,7 @@ Also watching: **Berserk**
     </tr>
   </table>
 
-  **→ [Launch Learning Hub](https://harsha240105.github.io/Final-Sem-Project/viva-web3connect/)**
+  **→ [Launch Learning Hub](https://harsha240105.github.io/Final-Sem-Project/)**
 
 </details>
 
