@@ -87,27 +87,42 @@ const harsha = {
 ### 📺 Complete Watch History
 
 <details>
-  <summary><b>Major Long Series</b> (click to expand)</summary>
+  <summary><b>Major Long Series</b></summary>
 
-| Series | Hours |
-|--------|------|
-| Dragon Ball (DB → Z → GT → Super) | ~290h |
-| Bleach (including Thousand-Year Blood War) | ~170h |
-| One Piece | ~420h |
-| Naruto + Naruto Shippuden | ~300h |
+**Dragon Ball**
+- Dragon Ball
+- Dragon Ball Z
+- Dragon Ball GT
+- Dragon Ball Super
+- Movies
+≈ 290 hours
+
+**Bleach** (including Thousand-Year Blood War)
+≈ 170 hours
+
+**One Piece**
+1100+ episodes
+≈ 420 hours
+
+**Naruto** (Naruto + Shippuden)
+≈ 300 hours
 
 </details>
 
 <details>
-  <summary><b>Medium Series</b> (click to expand)</summary>
+  <summary><b>Medium Series</b></summary>
 
 | Series | Hours |
 |--------|------|
-| Demon Slayer (all seasons + movies) | ~30h |
+| Demon Slayer: Kimetsu no Yaiba (all seasons + movies) | ~30h |
+| One-Punch Man | ~10h |
+| Chainsaw Man | ~5h |
 | Attack on Titan | ~35h |
 | My Hero Academia | ~55h |
-| Hunter × Hunter | ~60h |
 | Mob Psycho 100 | ~15h |
+| Hunter × Hunter | ~60h |
+| Solo Leveling | ~10h |
+| Kaiju No. 8 | ~5h |
 | Code Geass | ~20h |
 | Monster | ~30h |
 | Dr. Stone (through Season 4) | ~35h |
@@ -115,28 +130,41 @@ const harsha = {
 </details>
 
 <details>
-  <summary><b>Short / Recent</b> (click to expand)</summary>
+  <summary><b>Currently Watching</b></summary>
 
-| Series | Hours |
-|--------|------|
-| One-Punch Man | ~10h |
-| Chainsaw Man | ~5h |
-| Solo Leveling | ~10h |
-| Kaiju No. 8 | ~5h |
+- Boruto: Naruto Next Generations
 
 </details>
 
+### 📊 Estimated Total Anime Hours
+
+| Series Group | Hours |
+|-------------|-------|
+| Dragon Ball Franchise | 290 |
+| Bleach | 170 |
+| One Piece | 420 |
+| Naruto | 300 |
+| Other Series Combined | 310 |
+| **TOTAL** | **≈ 1,490 Hours** |
+
+**What Does 1,490 Hours Mean?**
+- 62 days of nonstop watching (24/7)
+- 186 days if watching 8 hours per day
+- 744 anime episodes worth at 2 episodes/day for over a year
+
 <details>
-  <summary><b>Manga Read</b> (click to expand)</summary>
+  <summary><b>Manga Read</b></summary>
 
 - Dragon Ball Super
 - Demon Slayer: Kimetsu no Yaiba
 - Jujutsu Kaisen
 - Berserk
 
+Also watching: **Berserk**
+
 </details>
 
-**Total anime watched: ≈ 1,490 hours** (62 days of nonstop watching!)
+**Final Estimate:** You have watched approximately **1,450–1,550 hours** of anime, with a midpoint estimate of **~1,500 hours**.
 
 ---
 
